@@ -1,0 +1,22 @@
+FASILITAS WEBSITE SEKOLAH BERBASIS JOOMLA JOOMLA 3.9.25
+*MENU
+Home
+Profil
+ - Struktur
+ - Sarana & Prasarana
+ - Lokasi & Kontak
+Program Keahlian
+ - Teknik Otomotif
+ - Teknik Pemesinan
+ - Teknik Multimedia
+Manajemen
+ - Kapesek & Wakasek
+ - Kepala Program
+ - Guru Pengajar
+ - Staff TU
+Gallery
+PPDB
+Info Terkini 
+
+* SOSIAL ICON (facebook, twitter,youtube, dan instagram
+* LOGO (format photoshop cs3)
